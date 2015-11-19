@@ -18,3 +18,5 @@ tsset time;
 
 /* We will now process our imported data.*/
 do Processing;
+
+do Analysis;

@@ -5,5 +5,6 @@
 /*Set more off tells Stata to Print All Output at Once*/
 
 set more off;
+tsset time;
 
-do VariableSetup;
+varsoc growth, ex(int_inv);

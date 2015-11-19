@@ -6,4 +6,7 @@
 
 set more off;
 
+do Debt_analysis;
+do Investment_analysis;
+do Growth_analysis;
 
